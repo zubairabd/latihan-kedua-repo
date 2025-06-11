@@ -2,3 +2,4 @@ latihan kedua repo
 
 tambah satu baris dari notepad
 tambah baris ketiga
+tambah untuk konflik merge
