@@ -1,5 +1,1 @@
-latihan kedua repo
-
-tambah satu baris dari notepad
-tambah baris ketiga
-tambah untuk konflik merge
+ini file baru buat latihan konflik dari branch
